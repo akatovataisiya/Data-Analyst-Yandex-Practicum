@@ -1,4 +1,4 @@
-# Projects of the "Data Analyst" Course at Yandex.Practicum
+# Projects of the "Data Analyst" Course
 
 This repository contains the projects from the Yandex.Practicum "Data Analyst" course.
 
